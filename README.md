@@ -1,3 +1,7 @@
+# Student Data Opportunity Analysis
+
+---
+
 ## Overview  
 This project focuses on analyzing user and opportunity-wise data for Excelerate, a platform aimed at enhancing user engagement and opportunity participation. The project involved **data cleaning, AI model training, and dashboard creation** to provide actionable insights for stakeholders. The team processed over **27,000 user records** and **20,000 opportunity records**, leveraging Python for data cleaning and Power BI for visualization.  
 
